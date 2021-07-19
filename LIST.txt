@@ -113,42 +113,6 @@ SERIES A - SERIES A - SERIES A - SERIES A - SERIES A
 112. Perform Linear Search on an array using pointers
 113. PROBLEM !!!!! - Create an array of pointers which pointes to fininte amount of character arrays / strings
 
-SERIES B - SERIES B - SERIES B - SERIES B - SERIES B
-1.a Scan the values of integer, character and float data and display them using ‘cin’ and ‘cout’
-1.b Write a Program to find maximum out of 2 different values using ‘cin’ and ‘cout’
-1.c Write a Program to find maximum out of 3 different values using ‘cin’ and ‘cout’
-1.d Write a Program to scan an integer array of 5 elements
-1.e Write a Program of a simple calculator using switch case and ‘cin’ and ‘cout’ objects
-2.a WAP using 'class' with name bank, with functions to input value of amount, withdraw, deposited and display the amount
-2.b Using outside the class definition of function, rewrite the above program of bank
-2.c Create one class called item to have details of 5 items, having following member functions: i) getitem()- to assign values to data member ii) displaysum()- display total value iii) remove()- delete specific item iv) displayitem()- display content With following data type: i) int item_code ii) float item_price
-3.a Create a class employee having two data members char name & float age, this class is also having function void getdata() & void putdata() input and display the details of 5 different employees.
-3.b Create a class time having two data members int hour and int minutes, this class also having function void gettime(), void puttime() & void sum(). Display the sum of time taken input from two different objects of class passing object as an argument to the function.
-3.c Create a class root which will find the root of a quadratic equation, make a member function void calc() which will calculate the root having value of linear coefficient ‘b’ as default argument.
-3.d Create two class car & truck with data members as speed, create a friend function void speed to tell which has greater speed car or truck.
-?.a Create a class A having private integer data member a, having public integer data member b and public function void set_ab()- initialize a & b, void get_a()- return value of a, void show()- print the value of a. Create a class B which will derive public from base class and data member c and function multiplication()- multiply and display the product.
-?.b Class B is inherited privately from class A in previous question, now print the product.
-?.? Multilevel inheritance
-?.? Multiple inheritance
-?.? Heirarcial inheritance
-?.? Hybrid inheritance
-
-SERIES C - SERIES C - SERIES C - SERIES C - SERIES C
-1.a Write a program showcasing Call by Value 
-1.b Write a program showcasing Call by Reference
-2.a Write a program showcasing Dynamic Memory Allocation using malloc()
-2.b Write a program showcasing Dynamic Memory Allocation using calloc()
-3. Write a Program of Stack Operations with push, pop, peep, change and display functions
-4. Infix to Postfix conversion
-5. Implement QUEUE using arrays that performs following operations: (a) INSERT (b) DELETE (c) DISPLAY
-6. Implement Circular Queue using arrays that performs following operations. (a) INSERT (b) DELETE (c) DISPLAY
-7. Write a Program to implement operations on Singly linked list 
-8. !!!!! INCOMPLETE - Write a Program to implement operations on Circular linked list
-9. Write a Program to implement operations on Double linked list
-10. Write a simple program to showcase the use of Insertion and deletion in Binary Tree
-11. Write program for Inorder, Preorder and Postorder Traversal of Binary Search Tree
-
-
 SERIES D - SERIES D - SERIES D - SERIES D - SERIES D
 1. Create a class named 'Student' with a string variable 'name' and an integer variable 'roll_no'. Assign the value of roll_no as '2' and that of name as "John" by creating an object of the class Student.
 2. Assign and print the roll number, phone number and address of two students having names "Sam" and "John" respectively by creating two objects of the class 'Student'.
