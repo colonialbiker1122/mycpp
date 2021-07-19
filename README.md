@@ -1,2 +1,2 @@
 # mycpp
-Check out the list for Program Topics !!
+Check out the LIST.txt file for Program Topics !!
